@@ -1,0 +1,7 @@
+/home/erema/code/Client-Server/tcp_client/build/CMakeFiles/install/strip.dir
+/home/erema/code/Client-Server/tcp_client/build/CMakeFiles/install/local.dir
+/home/erema/code/Client-Server/tcp_client/build/CMakeFiles/install.dir
+/home/erema/code/Client-Server/tcp_client/build/CMakeFiles/list_install_components.dir
+/home/erema/code/Client-Server/tcp_client/build/CMakeFiles/rebuild_cache.dir
+/home/erema/code/Client-Server/tcp_client/build/CMakeFiles/edit_cache.dir
+/home/erema/code/Client-Server/tcp_client/build/CMakeFiles/tcp_client.dir

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/erema/code/Client-Server/tcp_client/main.cpp
+iostream
+-
+thread
+-
+cstring
+-
+unistd.h
+-
+arpa/inet.h
+-
+netinet/sctp.h
+-
+fstream
+-
+future
+-
+

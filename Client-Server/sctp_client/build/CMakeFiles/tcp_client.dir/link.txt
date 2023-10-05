@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/tcp_client.dir/main.cpp.o  -o tcp_client  -lpthread /usr/lib/x86_64-linux-gnu/libsctp.a 

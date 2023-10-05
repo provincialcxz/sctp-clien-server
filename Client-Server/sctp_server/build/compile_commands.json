@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/erema/code/Client-Server/tcp_server/build",
+  "command": "/usr/bin/g++    -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/tcp_server.dir/main.cpp.o -c /home/erema/code/Client-Server/tcp_server/main.cpp",
+  "file": "/home/erema/code/Client-Server/tcp_server/main.cpp"
+}
+]
